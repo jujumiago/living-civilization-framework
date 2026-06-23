@@ -151,6 +151,20 @@ The goal is to continuously improve the framework through evidence, discussion, 
 
 ---
 
+---
+
+## 🤖 AI Assistance Disclosure
+
+This framework was developed with assistance from AI systems for drafting, structuring, and refinement:
+
+- ChatGPT (OpenAI)
+- Claude (Anthropic)
+- Gemini
+
+All final decisions, structure integration, and publication control are managed by the author.
+
+This is a human-led, AI-assisted open framework.
+
 ## 📜 License
 
 Licensed under CC BY-SA 4.0.
