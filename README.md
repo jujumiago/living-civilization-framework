@@ -155,8 +155,3 @@ See [LICENSE](./LICENSE)
 > "A civilization grows stronger when it transforms survival into capability, capability into contribution, and contribution into legacy."
 
 ````
-/docs
-/history
-/research
-/examples
-/ 
