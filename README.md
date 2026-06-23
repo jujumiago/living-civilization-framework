@@ -196,6 +196,19 @@ All final decisions, structure integration, and publication control are managed 
 
 This is a human-led, AI-assisted open framework.
 
+## ⚖️ Disclaimer
+
+LCF is a conceptual framework for discussion, research, and exploration.
+
+It is not:
+
+- A political organization
+- A government proposal
+- A replacement for existing institutions
+- Professional advice
+
+Applications of the framework should consider local conditions and human rights principles.
+
 ## 📜 License
 
 Licensed under CC BY-SA 4.0.
