@@ -126,14 +126,16 @@ The framework itself should evolve as humanity gains new knowledge and understan
 * [x] Roadmap
 * [x] Governance
 * [x] Contribution Guidelines
+* [x] Measurement Framework
+* [x] Educational Framework
+* [x] Resource Framework
 
 ### In Progress
-
-* [ ] Historical Analysis
-* [ ] Measurement Framework
-* [ ] Educational Framework
 * [ ] AI Evaluation Framework
 * [ ] Global Cooperation Model
+* [ ] Economic Framework
+* [ ] Technology Framework
+* [ ] Ethics Framework
 
 ---
 
