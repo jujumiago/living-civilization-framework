@@ -1,6 +1,6 @@
 # Living Civilization Framework Systems Map
 
-## Relationship Between LCF Documents and Existing Knowledge
+## Relationship Between LCF and Existing Knowledge Systems
 
 ---
 
@@ -13,6 +13,19 @@ This document explains conceptual alignment between LCF systems and existing fie
 LCF does not claim to replace, copy, or represent the complete work of any individual thinker.
 
 These connections represent areas where ideas share similar principles, questions, or directions.
+
+
+## Interpretation Note
+
+The relationships described here represent conceptual alignment.
+
+LCF does not claim:
+
+- ownership of these ideas
+- direct reproduction of existing theories
+- official association with referenced thinkers
+
+The purpose is to identify shared questions, patterns, and directions.
 
 ---
 
@@ -44,7 +57,7 @@ This aligns with human development theories that study progression from basic ne
 
 ## Related Thinker
 
-### Abraham Maslow
+### Related Work: Abraham Maslow's Human Development Concepts
 
 Alignment:
 
@@ -80,7 +93,7 @@ Rather than only:
 
 ## Related Thinker
 
-### John Dewey
+### Related Work: John Dewey's Educational Philosophy
 
 Alignment:
 
