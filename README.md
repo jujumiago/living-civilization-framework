@@ -16,6 +16,11 @@ The Living Civilization Framework (LCF) is an open framework designed to help in
 - 🤝 [Contributing](./CONTRIBUTING.md)
 - 🌍 [History](./HISTORY.md)
 
+### Development Frameworks
+
+- 📊 [Measurement](./MEASUREMENT.md)
+- 🎓 [Education](./EDUCATION.md)
+- 🌱 [Resources](./RESOURCES.md)
 ---
 
 ## 🎯 Vision
