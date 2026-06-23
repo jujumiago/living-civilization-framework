@@ -1,4 +1,3 @@
-````markdown
 # 🌱 Living Civilization Framework (LCF)
 
 ## A Living Framework for Human Development and Civilizational Growth
