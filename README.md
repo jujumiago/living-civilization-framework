@@ -8,19 +8,50 @@ The Living Civilization Framework (LCF) is an open framework designed to help in
 
 ## 📖 Quick Navigation
 
-### Foundation Documents
+### 🌱 Core Foundation
+
+- 📖 [Article](./ARTICLE.md)
+  - Main vision and purpose of the Living Civilization Framework.
+
+- 📚 [Foundations](./FOUNDATIONS.md)
+  - Context, influences, and conceptual connections behind LCF.
+
+- 🧭 [Systems Map](./SYSTEMS.md)
+  - How LCF connects with existing fields and knowledge systems.
 
 - 📜 [Principles](./PRINCIPLES.md)
-- 🗺️ [Roadmap](./ROADMAP.md)
-- 🏛️ [Governance](./GOVERNANCE.md)
-- 🤝 [Contributing](./CONTRIBUTING.md)
-- 🌍 [History](./HISTORY.md)
+  - Core values and guiding principles.
 
-### Development Frameworks
+---
+
+### 🏗️ Civilization Structure
+
+- 🗺️ [Roadmap](./ROADMAP.md)
+  - Development pathway from survival to legacy.
+
+- 🏛️ [Governance](./GOVERNANCE.md)
+  - Civilization roles, coordination, and responsibility.
 
 - 📊 [Measurement](./MEASUREMENT.md)
+  - Methods for evaluating civilization health and progress.
+
+---
+
+### 🌍 Human & Planet Systems
+
 - 🎓 [Education](./EDUCATION.md)
+  - Human capability development and lifelong learning.
+
 - 🌱 [Resources](./RESOURCES.md)
+  - Resource relationships, sustainability, and planetary balance.
+
+---
+
+### 🤝 Community
+
+- 🤝 [Contributing](./CONTRIBUTING.md)
+- 🌍 [History](./HISTORY.md)
+  
 ---
 
 ## 🎯 Vision
