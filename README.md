@@ -14,6 +14,7 @@ The Living Civilization Framework (LCF) is an open framework designed to help in
 - 🗺️ [Roadmap](./ROADMAP.md)
 - 🏛️ [Governance](./GOVERNANCE.md)
 - 🤝 [Contributing](./CONTRIBUTING.md)
+- 🌍 [History](./HISTORY.md)
 
 ---
 
@@ -154,34 +155,8 @@ See [LICENSE](./LICENSE)
 > "A civilization grows stronger when it transforms survival into capability, capability into contribution, and contribution into legacy."
 
 ````
-
----
-
-### Next GitHub Upgrade (Highly Recommended)
-
-After committing this README:
-
-Create these folders:
-
-```text
 /docs
 /history
 /research
 /examples
-/media
-````
-
-Later:
-
-```text
-history/
-├── ancient-egypt.md
-├── ancient-china.md
-├── industrial-revolution.md
-├── singapore.md
-└── japan.md
-```
-
-This will make the repository look much more like a serious framework project rather than just a collection of markdown files.
-
-My suggestion: **rename the files to `.md` first**, commit that change, then update the README with navigation links. GitHub will automatically render everything nicely.
+/ 
