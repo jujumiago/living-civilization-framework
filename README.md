@@ -16,6 +16,11 @@ The Living Civilization Framework (LCF) is an open framework designed to help in
 - 🤝 [Contributing](./CONTRIBUTING.md)
 - 🌍 [History](./HISTORY.md)
 
+### Development Frameworks
+
+- 📊 [Measurement](./MEASUREMENT.md)
+- 🎓 [Education](./EDUCATION.md)
+- 🌱 [Resources](./RESOURCES.md)
 ---
 
 ## 🎯 Vision
@@ -121,14 +126,16 @@ The framework itself should evolve as humanity gains new knowledge and understan
 * [x] Roadmap
 * [x] Governance
 * [x] Contribution Guidelines
+* [x] Measurement Framework
+* [x] Educational Framework
+* [x] Resource Framework
 
 ### In Progress
-
-* [ ] Historical Analysis
-* [ ] Measurement Framework
-* [ ] Educational Framework
 * [ ] AI Evaluation Framework
 * [ ] Global Cooperation Model
+* [ ] Economic Framework
+* [ ] Technology Framework
+* [ ] Ethics Framework
 
 ---
 
@@ -143,6 +150,20 @@ The goal is to continuously improve the framework through evidence, discussion, 
 ➡️ See: [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
+
+---
+
+## 🤖 AI Assistance Disclosure
+
+This framework was developed with assistance from AI systems for drafting, structuring, and refinement:
+
+- ChatGPT (OpenAI)
+- Claude (Anthropic)
+- Gemini
+
+All final decisions, structure integration, and publication control are managed by the author.
+
+This is a human-led, AI-assisted open framework.
 
 ## 📜 License
 
