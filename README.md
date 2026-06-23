@@ -239,16 +239,3 @@ See also:
 ---
 
 > "A civilization grows stronger when it transforms survival into capability, capability into contribution, and contribution into legacy."
-
-```
-
-This version is now aligned with:
-- v0.2 structure
-- FOUNDATIONS.md
-- SYSTEMS.md
-- AI disclosure
-- open-source attribution
-- neutral wording for governance/civilization topics
-
-I would consider this your **public README v0.2.1** quality. 👍
-```
