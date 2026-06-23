@@ -2,7 +2,7 @@
 
 ## A Living Framework for Human Development and Civilizational Growth
 
-The Living Civilization Framework (LCF) is an open framework designed to help individuals, communities, organizations, and nations build sustainable pathways from survival to long-term human flourishing.
+The Living Civilization Framework (LCF) is an open framework designed to help individuals, communities, organizations, and societies explore sustainable pathways from survival to long-term human flourishing.
 
 ---
 
@@ -10,48 +10,49 @@ The Living Civilization Framework (LCF) is an open framework designed to help in
 
 ### 🌱 Core Foundation
 
-- 📖 [Article](./ARTICLE.md)
-  - Main vision and purpose of the Living Civilization Framework.
+- 📖 [Article](./ARTICLE.md)  
+  Main vision and purpose of the Living Civilization Framework.
 
-- 📚 [Foundations](./FOUNDATIONS.md)
-  - Context, influences, and conceptual connections behind LCF.
+- 📚 [Foundations](./FOUNDATIONS.md)  
+  Context, influences, and conceptual connections behind LCF.
 
-- 🧭 [Systems Map](./SYSTEMS.md)
-  - How LCF connects with existing fields and knowledge systems.
+- 🧭 [Systems Map](./SYSTEMS.md)  
+  How LCF connects with existing fields and knowledge systems.
 
-- 📜 [Principles](./PRINCIPLES.md)
-  - Core values and guiding principles.
+- 📜 [Principles](./PRINCIPLES.md)  
+  Core values and guiding principles.
 
 ---
 
 ### 🏗️ Civilization Structure
 
-- 🗺️ [Roadmap](./ROADMAP.md)
-  - Development pathway from survival to legacy.
+- 🗺️ [Roadmap](./ROADMAP.md)  
+  Development pathway from survival to legacy.
 
-- 🏛️ [Governance](./GOVERNANCE.md)
-  - Civilization roles, coordination, and responsibility.
+- 🏛️ [Governance](./GOVERNANCE.md)  
+  Civilization roles, coordination, and responsibility.
 
-- 📊 [Measurement](./MEASUREMENT.md)
-  - Methods for evaluating civilization health and progress.
+- 📊 [Measurement](./MEASUREMENT.md)  
+  Methods for evaluating civilization health and progress.
 
 ---
 
 ### 🌍 Human & Planet Systems
 
-- 🎓 [Education](./EDUCATION.md)
-  - Human capability development and lifelong learning.
+- 🎓 [Education](./EDUCATION.md)  
+  Human capability development and lifelong learning.
 
-- 🌱 [Resources](./RESOURCES.md)
-  - Resource relationships, sustainability, and planetary balance.
+- 🌱 [Resources](./RESOURCES.md)  
+  Resource relationships, sustainability, and planetary balance.
 
 ---
 
 ### 🤝 Community
 
 - 🤝 [Contributing](./CONTRIBUTING.md)
+
 - 🌍 [History](./HISTORY.md)
-  
+
 ---
 
 ## 🎯 Vision
@@ -82,7 +83,7 @@ and where each generation leaves stronger foundations for the next.
 | ----------------------- | ---------------------------------------------------- |
 | Survival First          | Basic human needs are the foundation of civilization |
 | Human Capability        | Education develops capability, not only knowledge    |
-| Dignity of Contribution | Every honest contribution has value                  |
+| Dignity of Contribution | Every meaningful contribution has value              |
 | Growth Through Action   | Learning is strengthened through experience          |
 | Continuous Evolution    | Civilization must continuously improve               |
 | Future Generations      | Leave stronger foundations than inherited            |
@@ -109,7 +110,7 @@ and where each generation leaves stronger foundations for the next.
 
 ## 🏛️ Governance Model
 
-LCF introduces multiple societal roles:
+LCF explores civilization coordination through multiple roles:
 
 * Citizen
 * Student
@@ -119,8 +120,8 @@ LCF introduces multiple societal roles:
 * Educator
 * Researcher
 * Explorer
-* Government
-* Artificial Intelligence
+* Public Institutions
+* Artificial Intelligence Systems
 
 ➡️ Read more: [GOVERNANCE.md](./GOVERNANCE.md)
 
@@ -160,8 +161,11 @@ The framework itself should evolve as humanity gains new knowledge and understan
 * [x] Measurement Framework
 * [x] Educational Framework
 * [x] Resource Framework
+* [x] Foundations Documentation
+* [x] Systems Alignment Map
 
 ### In Progress
+
 * [ ] AI Evaluation Framework
 * [ ] Global Cooperation Model
 * [ ] Economic Framework
@@ -182,19 +186,28 @@ The goal is to continuously improve the framework through evidence, discussion, 
 
 ---
 
----
-
 ## 🤖 AI Assistance Disclosure
 
-This framework was developed with assistance from AI systems for drafting, structuring, and refinement:
+This framework was developed through human-led research, reasoning, and design with assistance from AI tools for:
 
-- ChatGPT (OpenAI)
-- Claude (Anthropic)
-- Gemini
+* Drafting
+* Structuring
+* Exploration
+* Refinement
 
-All final decisions, structure integration, and publication control are managed by the author.
+AI systems used include:
+
+* ChatGPT (OpenAI)
+* Claude (Anthropic)
+* Gemini (Google)
+
+AI tools were used as collaborative assistance tools.
+
+All final decisions, framework structure, interpretation, and publication responsibility belong to the author.
 
 This is a human-led, AI-assisted open framework.
+
+---
 
 ## ⚖️ Disclaimer
 
@@ -202,21 +215,40 @@ LCF is a conceptual framework for discussion, research, and exploration.
 
 It is not:
 
-- A political organization
-- A government proposal
-- A replacement for existing institutions
-- Professional advice
+* A political organization
+* A government proposal
+* A replacement for existing institutions
+* Professional advice
 
-Applications of the framework should consider local conditions and human rights principles.
+Applications of the framework should consider local conditions, evidence, and human rights principles.
+
+---
 
 ## 📜 License
 
 Licensed under CC BY-SA 4.0.
 
+This license applies to this framework documentation and its derivatives according to the CC BY-SA 4.0 terms.
+
 See [LICENSE](./LICENSE)
+
+See also:
+
+* [NOTICE](./NOTICE.md)
 
 ---
 
 > "A civilization grows stronger when it transforms survival into capability, capability into contribution, and contribution into legacy."
 
-````
+```
+
+This version is now aligned with:
+- v0.2 structure
+- FOUNDATIONS.md
+- SYSTEMS.md
+- AI disclosure
+- open-source attribution
+- neutral wording for governance/civilization topics
+
+I would consider this your **public README v0.2.1** quality. 👍
+```
