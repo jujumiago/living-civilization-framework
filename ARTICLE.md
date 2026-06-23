@@ -229,29 +229,16 @@ The future of civilization depends on humanity's ability to learn, adapt, and ev
 
 ---
 
+## Note on Development Process
+Human = intent + direction + selection
+AI = exploration + structuring + drafting
+Framework = integration of both into a living system
+
+---
+
 ## License
 
 This document is part of the Living Civilization Framework.
 
 Licensed under CC BY-SA 4.0.
 
-```
-
-This fills the missing "root document".
-
-Then your repo hierarchy becomes cleaner:
-
-```
-
-ARTICLE.md        ← why this exists
-PRINCIPLES.md     ← values
-ROADMAP.md        ← progression
-GOVERNANCE.md     ← coordination
-MEASUREMENT.md    ← evaluation
-EDUCATION.md      ← human development
-RESOURCES.md      ← sustainability
-
-```
-
-After adding this, the v0.2 base is much more coherent.
-```
