@@ -27,7 +27,7 @@ It does not claim to represent the only interpretation of civilization developme
 
 # 2. Human Civilization Development
 
-Throughout history, human societies have changed through many forms of development.
+Throughout history, Human societies have developed through many different historical processes and cultural contexts.
 
 Examples include:
 
@@ -210,6 +210,22 @@ LCF represents one attempt to organize ideas about:
 - Long-term development
 
 The framework remains open to revision as knowledge and understanding continue to evolve.
+
+---
+
+# Looking Forward
+
+LCF is expected to continue evolving.
+
+Future versions may refine existing concepts, introduce new frameworks, or revise earlier ideas in response to:
+
+- Research
+- Evidence
+- Community discussion
+- Practical implementation
+- New technological developments
+
+The history of LCF is therefore intended to remain an open and continuously updated record rather than a completed narrative.
 
 ---
 
