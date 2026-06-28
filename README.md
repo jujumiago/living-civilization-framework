@@ -72,7 +72,7 @@ Exploration
     ↓
 Legacy
 ````
-
+LCF encourages both respect for every honest contribution and recognition of demonstrated excellence as complementary principles that strengthen civilization.
 and where each generation leaves stronger foundations for the next.
 
 ---
@@ -88,6 +88,7 @@ and where each generation leaves stronger foundations for the next.
 | Continuous Evolution    | Civilization must continuously improve               |
 | Future Generations      | Leave stronger foundations than inherited            |
 
+LCF encourages both respect for every honest contribution and recognition of demonstrated excellence as complementary principles that strengthen civilization.
 ➡️ Read the complete principles: [PRINCIPLES.md](./PRINCIPLES.md)
 
 ---
@@ -171,7 +172,8 @@ The framework itself should evolve as humanity gains new knowledge and understan
 * [ ] Economic Framework
 * [ ] Technology Framework
 * [ ] Ethics Framework
-
+      
+LCF encourages both respect for every honest contribution and recognition of demonstrated excellence as complementary principles that strengthen civilization.
 ---
 
 ## 🤝 Contributing
