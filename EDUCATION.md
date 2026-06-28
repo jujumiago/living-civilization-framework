@@ -46,6 +46,24 @@ LCF explores an additional perspective that emphasizes:
 
 Different educational approaches may be suitable for different situations.
 
+## 2.1 Education and Responsibility
+
+Education develops more than knowledge and skills.
+
+It also develops the ability to use knowledge responsibly.
+
+Capability without responsibility may produce harmful outcomes.
+
+A living civilization encourages learners to consider:
+
+- The consequences of their actions
+- Respect for others
+- Ethical decision-making
+- Long-term thinking
+- Contribution to society
+
+Responsibility grows alongside capability throughout life.
+
 ---
 
 # 3. Education Development Layers
@@ -104,6 +122,30 @@ Includes:
 Goal:
 
 Build constructive cooperation.
+
+---
+ 
+## Layer 2.5: Respect for Contribution
+
+Education helps people understand that civilization depends upon many different forms of honest contribution.
+
+Examples include:
+
+- Farmers producing food
+- Teachers developing capability
+- Healthcare professionals protecting health
+- Engineers building infrastructure
+- Skilled trades maintaining essential services
+- Researchers expanding knowledge
+- Caregivers supporting families and communities
+- Artists enriching culture
+- Public servants supporting society
+
+Different roles require different knowledge, skills, responsibilities, and expertise.
+
+However, every honest contribution that supports society deserves dignity and respect.
+
+Understanding how these contributions connect strengthens cooperation, appreciation, and social trust.
 
 ---
 
@@ -170,6 +212,44 @@ Individuals and societies may need continuous adaptation because:
 A learning civilization benefits from the ability to improve continuously.
 
 ---
+# 5.1 Learning Through Demonstration
+
+Learning becomes stronger when individuals have opportunities to demonstrate what they have learned.
+
+Demonstration may take many forms, including:
+
+- Practical projects
+- Research
+- Community service
+- Creative works
+- Scientific discovery
+- Innovation
+- Professional practice
+- Sport and other forms of peaceful competition
+
+The purpose of demonstration is not simply to outperform others.
+
+It allows individuals, communities, and society to learn from real-world application, recognize effective practices, and continue improving.
+
+---
+
+# 5.2 Recognition and Shared Learning
+
+Recognition acknowledges demonstrated effort, capability, innovation, and meaningful contribution.
+
+Within LCF, recognition is not intended to establish personal superiority.
+
+Its purpose is to:
+
+- Encourage continuous improvement
+- Inspire others to develop their capability
+- Identify successful practices
+- Promote knowledge sharing
+- Strengthen civilization through shared learning
+
+Achievement carries an opportunity to contribute knowledge and experience back to society so future generations can continue building upon previous progress.
+
+---
 
 # 6. Education Development Indicators
 
@@ -200,12 +280,28 @@ Education connects generations through:
 A society that supports learning can strengthen its ability to respond to future challenges.
 
 ---
-
+```
+Learn
+    ↓
+Develop Capability
+    ↓
+Act Responsibly
+    ↓
+Contribute
+    ↓
+Demonstrate Capability
+    ↓
+Receive Recognition
+    ↓
+Share Knowledge
+    ↓
+Strengthen Civilization
+```
 # 8. Final Principle
 
-Education is not only preparation for a future moment.
+Education is a lifelong process through which individuals and societies develop capability, responsibility, and understanding.
 
-It is a continuous process through which individuals and societies learn, adapt, and improve.
+A living civilization learns not only by acquiring knowledge, but also by applying it responsibly, respecting the honest contributions of others, demonstrating capability through constructive action, and sharing knowledge for the benefit of future generations.
 
 ---
 
