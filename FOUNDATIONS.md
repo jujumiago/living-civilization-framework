@@ -25,6 +25,8 @@ LCF attempts to connect these areas into a single evolving framework focused on:
 - Long-term sustainability
 - Future generations
 
+LCF is intended to evolve as new evidence, research, and practical experience become available.
+
 LCF is a synthesis framework.
 
 ---
@@ -102,7 +104,7 @@ Education has historically been viewed as a way to transfer knowledge.
 
 LCF expands this view.
 
-Education is the process of developing human capability.
+LCF views education as a process that can develop human capability.
 
 Capability includes:
 
@@ -133,7 +135,7 @@ Technology
 Expanded capability
 ```
 
-Technology should serve human development.
+LCF proposes that technology is most beneficial when it supports human development and responsible decision-making.
 
 The objective is not replacing humanity, but improving humanity's ability to understand and shape the future.
 
@@ -194,7 +196,28 @@ A healthy civilization recognizes diverse forms of meaningful contribution.
 
 ---
 
-# 9. The Unique Integration of LCF
+# 9. Responsibility and Recognition
+
+LCF recognizes that capability becomes most valuable when it is exercised responsibly.
+
+As civilizations develop, individuals and communities naturally demonstrate different strengths through work, research, creativity, service, leadership, and exploration.
+
+Recognition serves several constructive purposes:
+
+- Encouraging continuous improvement
+- Sharing successful practices
+- Inspiring future generations
+- Expanding collective knowledge
+
+Recognition is not intended to establish permanent status or superiority.
+
+Instead, it acknowledges demonstrated contribution while reinforcing respect for all forms of honest work that enable civilization to function.
+
+Healthy competition encourages learning, innovation, and excellence while maintaining cooperation and mutual respect.
+
+---
+
+# 10. The Unique Integration of LCF
 
 Many existing frameworks focus on specific areas:
 
@@ -213,15 +236,15 @@ Governance → Coordination
 LCF attempts to connect them:
 
 ```text
-Human capability
+Human Capability
         ↓
-Contribution
+Responsible Contribution
         ↓
-Civilization systems
+Continuous Improvement
         ↓
-Sustainable development
+Knowledge Sharing
         ↓
-Future legacy
+Future Legacy
 ```
 
 The focus is not one isolated system.
@@ -263,3 +286,11 @@ The Living Civilization Framework represents an attempt to organize humanity's a
 It is not a final answer.
 
 It is a structure for asking better questions and building better futures.
+
+## Disclaimer
+
+FOUNDATIONS.md describes the conceptual background of the Living Civilization Framework (LCF).
+
+References to academic fields, historical developments, and general patterns of thought are intended to provide context and should not be interpreted as claims of ownership, endorsement, or complete representation of those fields.
+
+LCF remains an independent conceptual framework that integrates ideas from multiple disciplines while remaining open to revision through research, evidence, and practical experience.
