@@ -2,6 +2,20 @@
 
 ## Relationship Between LCF and Existing Knowledge Systems
 
+## Interpretation Note
+
+The relationships described in this document represent conceptual alignment only.
+
+LCF does not claim:
+
+- ownership of these ideas
+- direct reproduction of existing theories
+- official association with referenced thinkers, institutions, or organizations
+- that these thinkers would necessarily agree with LCF
+
+The purpose is to identify similar questions, patterns, and areas of conceptual overlap while acknowledging important differences.
+
+
 ---
 
 ## 1. Purpose
@@ -41,17 +55,23 @@ LCF:
 
 ```text
 Survival
-    ↓
+      ↓
+Learning
+      ↓
 Capability
-    ↓
+      ↓
+Responsibility
+      ↓
 Contribution
-    ↓
-Growth
-    ↓
+      ↓
+Demonstration
+      ↓
+Exploration
+      ↓
 Legacy
-````
+```
 
-explores how humans and civilization develop over time.
+explores how individuals and civilizations may develop through continuous learning, responsible capability, meaningful contribution, exploration, and intergenerational stewardship.
 
 This aligns with human development theories that study progression from basic needs toward higher capability.
 
@@ -79,17 +99,15 @@ Educational philosophy
 
 ## Alignment
 
-LCF views education as:
+LCF views education as supporting a continuous pathway through:
 
-* Capability development
-* Lifelong learning
-* Preparation for meaningful contribution
+- Learning
+- Capability development
+- Responsibility
+- Meaningful contribution
+- Lifelong learning
 
-Rather than only:
-
-* Information transfer
-* Memorization
-* Credential collection
+Education includes knowledge acquisition while also encouraging practical application, ethical reasoning, collaboration, and continuous improvement.
 
 ## Related Thinker
 
@@ -262,14 +280,18 @@ Governance → Coordination
 LCF connects them:
 
 ```text
-Human capability
-        ↓
+Learning
+      ↓
+Capability
+      ↓
+Responsibility
+      ↓
 Contribution
-        ↓
-Civilization systems
-        ↓
-Sustainable future
-        ↓
+      ↓
+Civilization Systems
+      ↓
+Exploration
+      ↓
 Legacy
 ```
 
@@ -299,4 +321,18 @@ The framework remains open to correction, refinement, and new knowledge.
 
 LCF is a synthesis framework.
 
-Its purpose is not to replace existing theories, but to connect useful patterns from different fields into one civilization-level model.
+Its purpose is not to replace existing theories, disciplines, or institutions.
+
+Instead, it explores how complementary ideas from multiple fields may be connected into a broader civilization-level perspective.
+
+The framework remains open to revision as new knowledge, research, evidence, and practical experience become available.
+
+## Disclaimer
+
+References to existing thinkers, academic fields, and historical ideas are provided solely to illustrate areas of conceptual alignment.
+
+They should not be interpreted as endorsements, complete representations of those works, or claims that LCF reproduces or replaces them.
+
+Readers are encouraged to consult the original sources for a complete understanding of the referenced theories.
+
+LCF remains an independent, evolving conceptual framework that integrates ideas from multiple disciplines while remaining open to revision through evidence, research, and practical experience.

@@ -84,6 +84,20 @@ The focus is not only managing problems, but enabling people and communities to 
 
 ---
 
+## Principle 6: Respect for Honest Contribution
+
+A healthy civilization depends on many different forms of honest contribution.
+
+Governance should encourage respect for people who contribute constructively to society through different roles, responsibilities, and professions.
+
+Different responsibilities may require different capabilities, authority, or expertise.
+
+However, every honest contribution that supports society deserves dignity and respect.
+
+Promoting mutual respect strengthens cooperation, social trust, and long-term resilience.
+
+---
+
 # Governance Structure
 
 LCF describes several functional roles that may appear in different forms across organizations, communities, or societies.
@@ -142,6 +156,29 @@ Create value through meaningful participation.
 ## Goal:
 
 Support society while continuing personal growth.
+
+---
+
+# Excellence and Demonstration
+
+## Role:
+
+Develop and demonstrate capability through constructive action.
+
+Examples may include:
+
+- Professional achievement
+- Scientific research
+- Engineering
+- Innovation
+- Community service
+- Creative work
+- Education
+- Sport and other forms of peaceful competition
+
+The purpose of demonstrating capability is to encourage learning, improve standards, and inspire others.
+
+Recognition should celebrate constructive achievement rather than personal superiority.
 
 ---
 
@@ -213,6 +250,24 @@ Research supports continuous improvement.
 
 ---
 
+# Mentor
+
+## Role:
+
+Support the development of others by sharing knowledge and experience.
+
+## Responsibilities:
+
+- Teach practical understanding
+- Encourage responsible development
+- Share lessons learned
+- Support future generations
+- Promote continuous improvement
+
+Mentorship strengthens civilization by helping knowledge and experience continue across generations.
+
+---
+
 # Explorer
 
 ## Role:
@@ -280,6 +335,26 @@ Verification and learning mechanisms improve resilience.
 
 ---
 
+# Recognition and Appreciation
+
+Healthy governance may include appropriate ways of recognizing constructive contributions.
+
+Recognition may acknowledge:
+
+- Responsibility
+- Capability
+- Innovation
+- Service
+- Leadership
+- Cooperation
+- Long-term contribution
+
+Recognition should encourage learning and continued contribution.
+
+It should not diminish the dignity of people making different honest contributions to society.
+
+---
+
 # Capability Evaluation
 
 Capability should not be understood only through:
@@ -295,8 +370,13 @@ A broader view may consider:
 - Practical ability
 - Problem solving
 - Adaptability
+- Responsibility
+- Ethical judgment
+- Cooperation
+- Respect for others
 - Contribution
 - Continuous improvement
+- Willingness to share knowledge
 
 AI-assisted evaluation, where used, should include appropriate human oversight.
 
@@ -329,6 +409,20 @@ This concept may apply to:
 
 ---
 
+# Peaceful Development
+
+LCF encourages societies to pursue excellence through peaceful means.
+
+Capability may be demonstrated through education, research, innovation, public service, creative achievement, entrepreneurship, engineering, and sport.
+
+Constructive competition can encourage learning, inspire improvement, and help identify effective ideas.
+
+The objective is not domination over others.
+
+The objective is continuous improvement for the benefit of civilization.
+
+---
+
 # Ultimate Objective
 
 LCF explores governance as a way to support civilizations in developing through:
@@ -347,12 +441,15 @@ Exploration
 Legacy
 ```
 
-while maintaining:
+while promoting:
 
-* Human dignity
-* Responsibility
-* Sustainability
-* Future awareness
+- Human dignity
+- Responsibility
+- Respect for honest contribution
+- Peaceful cooperation
+- Sustainable development
+- Continuous learning
+- Future awareness
 
 ---
 

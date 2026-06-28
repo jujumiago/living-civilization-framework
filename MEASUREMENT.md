@@ -64,6 +64,23 @@ The goal is learning and improvement over time.
 
 ---
 
+## Principle 3.1: Recognition Through Demonstrated Capability
+
+Measurement can help identify demonstrated capability and meaningful contribution.
+
+Recognition should be based, where appropriate, on evidence of effort, capability, innovation, responsibility, or positive contribution rather than status, popularity, or titles alone.
+
+Within LCF, recognition is intended to:
+
+- Encourage continuous learning
+- Highlight effective practices
+- Inspire improvement
+- Promote knowledge sharing
+
+Recognition should not diminish the dignity of those making different honest contributions to society.
+
+---
+
 ## Principle 4: Human and Digital Assistance
 
 Digital tools and artificial intelligence systems may assist measurement through:
@@ -151,6 +168,25 @@ Enable constructive contribution.
 
 ---
 
+## Stage 3.1 — Demonstration
+
+Possible indicators:
+
+- Practical application of knowledge
+- Completion of meaningful projects
+- Innovation
+- Community impact
+- Professional achievement
+- Creative achievement
+- Research outcomes
+- Peaceful competition or public demonstration of capability
+
+Purpose:
+
+Provide opportunities to demonstrate capability through constructive action and real-world application.
+
+---
+
 # Stage 4 — Growth
 
 Possible indicators:
@@ -164,6 +200,26 @@ Possible indicators:
 Purpose:
 
 Expand capability and opportunity.
+
+---
+
+## Stage 4.1 — Recognition and Knowledge Sharing
+
+Possible indicators:
+
+- Mentoring others
+- Sharing successful practices
+- Teaching
+- Publishing knowledge
+- Open collaboration
+- Community leadership
+- Positive influence
+
+Purpose:
+
+Encourage the sharing of knowledge and experience so successful ideas can strengthen civilization.
+
+Recognition is viewed as a responsibility to contribute back to society rather than merely a personal reward.
 
 ---
 
@@ -218,14 +274,17 @@ Questions:
 
 ---
 
-## Character and Responsibility
+## Character, Responsibility, and Respect
 
 Questions:
 
-- Is the person acting responsibly?
-- Is cooperation maintained?
-- Are others treated with respect?
+Is the person acting responsibly?
+Does the person cooperate constructively?
+Does the person respect the honest contributions of others?
+Is knowledge used ethically?
+Does the person contribute positively to their community?
 
+These questions are intended to support reflection and development rather than determine a person's worth.
 ---
 
 # Community Indicators
@@ -345,6 +404,23 @@ Appropriate human review, transparency, and accountability remain important.
 
 ---
 
+# Recognition Considerations
+
+Recognition systems should consider:
+
+- Demonstrated capability
+- Responsibility
+- Positive contribution
+- Integrity
+- Knowledge sharing
+- Constructive collaboration
+
+Recognition should remain transparent, evidence-based where appropriate, and open to review.
+
+Recognition is intended to encourage learning rather than create unnecessary social hierarchy.
+
+---
+
 # Ethical Considerations
 
 Measurement systems should consider:
@@ -368,13 +444,15 @@ Within LCF, success is not defined only by:
 - Titles
 - Recognition
 
-Success may be understood as:
+Success may be understood as progress toward a civilization in which:
 
-- Survival becoming more secure
-- Capability continuing to develop
-- Contribution becoming meaningful
-- Growth continuing
-- Future generations receiving stronger foundations
+- Survival becomes more secure
+- Capability continues to develop
+- Responsibility grows alongside capability
+- Honest contributions are respected
+- Demonstrated excellence is recognized fairly
+- Knowledge is shared across generations
+- Future generations inherit stronger foundations
 
 Civilization development can be viewed as movement through:
 

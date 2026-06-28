@@ -32,35 +32,36 @@ A system that can observe, learn, adapt, improve, and evolve.
 
 Every human life and civilization begins with fundamental needs.
 
-LCF explores a development pathway where stable foundations allow individuals and societies to progress toward higher levels of capability and contribution.
+LCF explores a development pathway in which stable foundations allow individuals and societies to continue learning, develop capability, exercise responsibility, contribute meaningfully, explore new possibilities, and strengthen future generations.
 
 ```text
 Survival
-    ↓
+      ↓
+Learning
+      ↓
 Capability
-    ↓
+      ↓
+Responsibility
+      ↓
 Contribution
-    ↓
-Growth
-    ↓
+      ↓
+Demonstration
+      ↓
 Exploration
-    ↓
+      ↓
 Legacy
-````
+```
 
-Each stage builds upon previous foundations.
+Each phase builds upon the foundations established before it.
 
-Survival creates stability.
-
-Capability creates ability.
-
-Contribution creates value.
-
-Growth creates advancement.
-
-Exploration expands possibilities.
-
-Legacy represents responsibility toward future generations.
+- Survival provides stability.
+- Learning builds understanding.
+- Capability transforms understanding into practical ability.
+- Responsibility guides capability toward ethical action.
+- Contribution creates value for others.
+- Demonstration allows capability to be applied, evaluated, and shared.
+- Exploration expands knowledge and opportunity.
+- Legacy strengthens future generations.
 
 ---
 
@@ -101,40 +102,58 @@ A civilization that learns from experience may become better prepared to respond
 
 ---
 
-# 4. Human Capability as a Foundation
+# 4. Human Capability and Responsibility
 
-LCF views human capability as an important foundation of civilization.
+LCF views human capability as one of the foundations of civilization.
 
 Capability includes:
 
-* Knowledge
-* Skills
-* Creativity
-* Responsibility
-* Cooperation
-* Wisdom
+- Knowledge
+- Skills
+- Creativity
+- Communication
+- Adaptability
+- Problem solving
 
-Education is therefore not only about transferring information.
+However, capability alone is not sufficient.
 
-It can also support the development of people who are able to understand, create, contribute, and improve society.
+LCF emphasizes that capability should develop alongside responsibility, including:
+
+- Ethical reasoning
+- Respect for others
+- Accountability
+- Long-term thinking
+- Respect for honest contribution
+
+Education therefore supports not only the acquisition of knowledge but also the development of responsible individuals capable of contributing constructively to society.
 
 ---
 
-# 5. Contribution and Value
+# 5. Contribution and Demonstration
 
-LCF recognizes that civilizations develop through many forms of contribution.
+LCF recognizes that civilizations develop through many forms of meaningful contribution.
 
-Contribution can appear as:
+Contribution may include:
 
-* Scientific discovery
-* Building infrastructure
-* Caring for others
-* Creating art
-* Solving problems
-* Protecting ecosystems
-* Sharing knowledge
+- Scientific discovery
+- Building infrastructure
+- Caring for others
+- Creating art
+- Solving problems
+- Protecting ecosystems
+- Sharing knowledge
 
-A healthy civilization may recognize diverse forms of meaningful contribution rather than measuring human value only through status or wealth.
+Capability becomes meaningful when it is demonstrated through constructive action.
+
+Demonstration allows individuals and communities to:
+
+- Apply knowledge in practice
+- Solve real-world problems
+- Inspire others
+- Share successful approaches
+- Continuously improve through experience
+
+A healthy civilization values both contribution and the willingness to learn from demonstrated experience.
 
 ---
 
@@ -206,32 +225,46 @@ New knowledge and experience should contribute to improving the framework itself
 
 # 9. The Goal of Living Civilization
 
-LCF explores a vision of civilization where humans can:
+LCF explores a vision of civilization where individuals and societies can:
 
-* Meet basic needs
-* Develop capabilities
-* Contribute meaningfully
-* Explore new possibilities
-* Create stronger foundations for future generations
+- Meet fundamental needs
+- Continue learning throughout life
+- Develop practical capability
+- Exercise responsibility
+- Contribute meaningfully
+- Demonstrate capability through action
+- Explore new possibilities
+- Leave stronger foundations for future generations
 
-The goal is not only growth.
+The objective is not growth alone.
 
-It is balanced and sustainable development.
+It is balanced, responsible, and sustainable development that benefits both present and future generations.
 
 ---
 
 # 10. Final Principle
 
-A civilization can grow stronger when it transforms:
+A civilization becomes stronger when learning continuously develops responsible capability that is transformed into meaningful contribution.
 
 ```text
-Survival → Capability
-Capability → Contribution
-Contribution → Growth
-Growth → Legacy
+Survival
+      ↓
+Learning
+      ↓
+Capability
+      ↓
+Responsibility
+      ↓
+Contribution
+      ↓
+Demonstration
+      ↓
+Exploration
+      ↓
+Legacy
 ```
 
-The future of civilization depends on humanity's ability to learn, adapt, cooperate, and evolve.
+The future of civilization depends on humanity's ability to learn, cooperate, act responsibly, adapt to change, and continuously improve together.
 
 ---
 
