@@ -4,7 +4,9 @@
 
 ## Measurement and Learning Framework
 
-Measurement within the Living Civilization Framework explores how individuals, communities, organizations, and societies may understand progress and identify opportunities for improvement.
+Measurement within the Living Civilization Framework (LCF) explores ways individuals, communities, organizations, and societies may understand progress and identify opportunities for learning and improvement.
+
+The concepts presented are intended as discussion and evaluation tools rather than universal measurement standards.
 
 Measurement is not intended to define human worth.
 
@@ -98,9 +100,11 @@ Human responsibility, context, ethics, and review remain important.
 
 # Development Pathway
 
-LCF explores development through six conceptual stages.
+LCF explores development through conceptual stages that represent possible patterns of growth.
 
-These stages describe possible patterns of growth, not mandatory rankings.
+These stages are not mandatory, universal, or fixed.
+
+Individuals, communities, organizations, and societies may develop differently depending on their circumstances, culture, opportunities, and goals.
 
 ---
 
@@ -400,11 +404,17 @@ AI systems may support:
 
 AI should not become the sole authority for important decisions.
 
-Appropriate human review, transparency, and accountability remain important.
+Important decisions should include appropriate human review, transparency, accountability, and consideration of applicable laws and ethical standards.
 
 ---
 
 # Recognition Considerations
+
+Recognition within LCF is intended to acknowledge demonstrated capability and constructive contribution.
+
+Recognition does not imply that one person's inherent worth is greater than another's.
+
+Different forms of honest contribution may all provide meaningful value to civilization.
 
 Recognition systems should consider:
 
@@ -429,7 +439,9 @@ Measurement systems should consider:
 - Fairness
 - Transparency
 - Context
-- Avoiding discrimination
+- Respect for human dignity
+- Avoiding unlawful discrimination
+- Appropriate legal compliance
 
 Indicators should be tools for improvement, not tools for reducing people to numbers.
 
@@ -437,7 +449,7 @@ Indicators should be tools for improvement, not tools for reducing people to num
 
 # Success Definition
 
-Within LCF, success is not defined only by:
+Within LCF, success is viewed as multidimensional rather than being defined only by:
 
 - Wealth
 - Status
@@ -458,15 +470,19 @@ Civilization development can be viewed as movement through:
 
 ```text
 Survival
-    ↓
+      ↓
+Learning
+      ↓
 Capability
-    ↓
+      ↓
+Responsibility
+      ↓
 Contribution
-    ↓
-Growth
-    ↓
+      ↓
+Demonstration
+      ↓
 Exploration
-    ↓
+      ↓
 Legacy
 ````
 
@@ -502,17 +518,10 @@ Learning exists to support long-term civilization development.
 
 ## Disclaimer
 
-LCF measurement concepts are exploratory tools for discussion, research, and system improvement.
+The measurement concepts presented in LCF are exploratory tools for discussion, research, education, and system improvement.
 
-They are not intended as a universal ranking system for people, societies, or cultures.
+They are not intended to function as universal standards, legal requirements, psychological assessments, employment evaluations, or ranking systems for individuals, organizations, societies, or cultures.
 
-Real-world application should consider ethics, laws, local conditions, and human rights principles.
+Real-world application should consider applicable laws, ethics, local conditions, cultural context, evidence-based practice, and internationally recognized human rights principles.
 
-```
-
-This version is much safer because it makes the key distinction:
-
-**"Measurement of systems and development" ≠ "scoring human value."**
-
-That distinction will matter a lot if people read this publicly.
-```
+Users remain responsible for how these concepts are interpreted and applied.
