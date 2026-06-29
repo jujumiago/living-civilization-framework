@@ -4,11 +4,11 @@
 
 ## Governance and Coordination Concepts
 
-Governance within the Living Civilization Framework explores how societies may organize cooperation, responsibility, and continuous improvement.
+Governance within the Living Civilization Framework (LCF) explores how individuals, communities, organizations, and public institutions may organize cooperation, responsibility, and continuous improvement.
 
 LCF does not propose replacing existing political, legal, or institutional systems.
 
-Instead, it provides a conceptual model for exploring:
+Instead, it provides a conceptual framework for exploring:
 
 - Human development
 - Social coordination
@@ -42,7 +42,7 @@ Authority, where it exists, should be connected with responsibility, accountabil
 
 Systems benefit from mechanisms that allow actions and decisions to be reviewed.
 
-Accountability helps reduce:
+Appropriate accountability mechanisms may help reduce:
 
 - Abuse of power
 - Poor decision-making
@@ -52,7 +52,7 @@ Accountability helps reduce:
 
 ## Principle 3: Transparency
 
-Decisions affecting communities should be understandable and reviewable where appropriate.
+Where appropriate and consistent with applicable laws, decisions affecting communities should be understandable and reviewable.
 
 Transparency supports:
 
@@ -94,7 +94,7 @@ Different responsibilities may require different capabilities, authority, or exp
 
 However, every honest contribution that supports society deserves dignity and respect.
 
-Promoting mutual respect strengthens cooperation, social trust, and long-term resilience.
+Respect for honest contribution does not imply that all roles carry identical responsibilities, qualifications, authority, or societal impact. Rather, LCF encourages recognizing the dignity of people who contribute constructively within their respective roles.
 
 ---
 
@@ -178,7 +178,7 @@ Examples may include:
 
 The purpose of demonstrating capability is to encourage learning, improve standards, and inspire others.
 
-Recognition should celebrate constructive achievement rather than personal superiority.
+Recognition should celebrate constructive achievement, encourage learning, and share good practices rather than promote personal superiority or diminish the value of others.
 
 ---
 
@@ -212,7 +212,7 @@ Evaluate systems and outcomes.
 - Check effectiveness
 - Support integrity
 
-Independent review can help reduce conflicts of interest.
+Where appropriate, independent review may help reduce conflicts of interest and strengthen public confidence.
 
 ---
 
@@ -314,7 +314,7 @@ Possible uses:
 - Planning support
 - Evaluation assistance
 
-AI should remain a tool supporting human responsibility.
+AI should remain a tool that supports human judgment, responsibility, and informed decision-making.
 
 Human judgment, ethics, and accountability remain important.
 
@@ -339,7 +339,7 @@ Verification and learning mechanisms improve resilience.
 
 Healthy governance may include appropriate ways of recognizing constructive contributions.
 
-Recognition may acknowledge:
+Recognition may appropriately acknowledge:
 
 - Responsibility
 - Capability
@@ -378,7 +378,7 @@ A broader view may consider:
 - Continuous improvement
 - Willingness to share knowledge
 
-AI-assisted evaluation, where used, should include appropriate human oversight.
+Evaluation methods should also consider privacy, fairness, transparency, applicable laws, and the potential limitations of both human and AI assessment.
 
 ---
 
@@ -415,7 +415,7 @@ LCF encourages societies to pursue excellence through peaceful means.
 
 Capability may be demonstrated through education, research, innovation, public service, creative achievement, entrepreneurship, engineering, and sport.
 
-Constructive competition can encourage learning, inspire improvement, and help identify effective ideas.
+Constructive and peaceful competition may encourage learning, inspire improvement, promote innovation, and help identify effective ideas while respecting fairness and the dignity of participants.
 
 The objective is not domination over others.
 
@@ -429,15 +429,19 @@ LCF explores governance as a way to support civilizations in developing through:
 
 ```text
 Survival
-    ↓
+      ↓
+Learning
+      ↓
 Capability
-    ↓
+      ↓
+Responsibility
+      ↓
 Contribution
-    ↓
-Growth
-    ↓
+      ↓
+Demonstration
+      ↓
 Exploration
-    ↓
+      ↓
 Legacy
 ```
 
@@ -459,9 +463,4 @@ Governance concepts in LCF are exploratory models for discussion and research.
 
 They are not a proposed replacement for existing governments, laws, or institutions.
 
-Real-world application requires consideration of local conditions, cultures, laws, and human rights principles.
-
-```
-
-This version is much safer legally because it clearly positions LCF as a **conceptual framework**, not a political movement or government design.
-```
+Any real-world application should consider applicable laws, local conditions, cultural contexts, evidence-based practices, and internationally recognized human rights principles where applicable.
