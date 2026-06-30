@@ -61,19 +61,25 @@ To cultivate a civilization where every person has a pathway through:
 
 ```text
 Survival
-    ↓
+      ↓
+Learning
+      ↓
 Capability
-    ↓
+      ↓
+Responsibility
+      ↓
 Contribution
-    ↓
-Growth
-    ↓
+      ↓
+Demonstration
+      ↓
 Exploration
-    ↓
+      ↓
 Legacy
-````
-LCF encourages both respect for every honest contribution and recognition of demonstrated excellence as complementary principles that strengthen civilization.
+```
+
 and where each generation leaves stronger foundations for the next.
+
+LCF encourages both respect for every honest contribution and recognition of demonstrated excellence as complementary principles that strengthen civilization.
 
 ---
 
@@ -88,7 +94,7 @@ and where each generation leaves stronger foundations for the next.
 | Continuous Evolution    | Civilization must continuously improve               |
 | Future Generations      | Leave stronger foundations than inherited            |
 
-LCF encourages both respect for every honest contribution and recognition of demonstrated excellence as complementary principles that strengthen civilization.
+
 
 ➡️ Read the complete principles: [PRINCIPLES.md](./PRINCIPLES.md)
 
@@ -96,16 +102,16 @@ LCF encourages both respect for every honest contribution and recognition of dem
 
 ## 🗺️ Development Roadmap
 
-| Phase   | Focus                  |
-| ------- | ---------------------- |
-| Phase 0 | Survival Foundation    |
-| Phase 1 | Entry & Stabilization  |
-| Phase 2 | Capability Development |
-| Phase 3 | Contribution           |
-| Phase 4 | Growth                 |
-| Phase 5 | Exploration            |
-| Phase 6 | Legacy                 |
-
+| Phase | Focus |
+|-------|-------|
+| Phase 0 | Survival |
+| Phase 1 | Learning |
+| Phase 2 | Capability |
+| Phase 3 | Responsibility |
+| Phase 4 | Contribution |
+| Phase 5 | Demonstration |
+| Phase 6 | Exploration |
+| Phase 7 | Legacy |
 ➡️ Full roadmap: [ROADMAP.md](./ROADMAP.md)
 
 ---
@@ -114,13 +120,14 @@ LCF encourages both respect for every honest contribution and recognition of dem
 
 LCF explores civilization coordination through multiple roles:
 
-* Citizen
-* Student
-* Worker
-* Supervisor
-* Inspector
+* Participant
+* Learner
+* Contributor
+* Guide / Coordinator
+* Reviewer / Inspector
 * Educator
 * Researcher
+* Mentor
 * Explorer
 * Public Institutions
 * Artificial Intelligence Systems
@@ -142,9 +149,9 @@ Learn
    ↓
 Improve
    ↓
-Share
+Adapt
    ↓
-Repeat
+Continue
 ```
 
 The framework itself should evolve as humanity gains new knowledge and understanding.
@@ -165,8 +172,6 @@ The framework itself should evolve as humanity gains new knowledge and understan
 * [x] Resource Framework
 * [x] Foundations Documentation
 * [x] Systems Alignment Map
-
-LCF encourages both respect for every honest contribution and recognition of demonstrated excellence as complementary principles that strengthen civilization.
 
 ### In Progress
 
@@ -205,7 +210,7 @@ AI systems used include:
 * Claude (Anthropic)
 * Gemini (Google)
 
-AI tools were used as collaborative assistance tools.
+AI tools were used to assist with drafting, organization, exploration, and refinement. They did not make final decisions or independently author the framework.
 
 All final decisions, framework structure, interpretation, and publication responsibility belong to the author.
 
@@ -224,13 +229,21 @@ It is not:
 * A replacement for existing institutions
 * Professional advice
 
-Applications of the framework should consider local conditions, evidence, and human rights principles.
+Any practical application of concepts discussed in LCF should consider applicable laws, local conditions, available evidence, ethical considerations, and internationally recognized human rights principles.
+
+---
+
+## 📚 Academic and Conceptual Position
+
+LCF is an independent conceptual framework that synthesizes ideas from multiple fields of knowledge. References to existing disciplines, thinkers, or historical developments throughout the documentation are intended to illustrate conceptual relationships rather than imply endorsement, ownership, or complete representation of those works.
+
+The framework is designed to evolve through research, evidence, constructive discussion, and practical experience.
 
 ---
 
 ## 📜 License
 
-Licensed under CC BY-SA 4.0.
+Unless otherwise noted, the documentation in this repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 
 This license applies to this framework documentation and its derivatives according to the CC BY-SA 4.0 terms.
 
