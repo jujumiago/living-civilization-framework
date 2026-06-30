@@ -8,7 +8,7 @@
 
 ## 1. Purpose
 
-Resources are important foundations that support human life and civilization.
+LCF views resources as important foundations that support human life and civilization.
 
 LCF explores resources not only as materials to use, but as relationships between:
 
@@ -18,13 +18,13 @@ LCF explores resources not only as materials to use, but as relationships betwee
 - Social systems
 - Future generations
 
-A sustainable civilization may benefit from understanding how resources are created, used, maintained, and renewed.
+LCF proposes that sustainable civilization development may benefit from understanding how resources are created, used, maintained, and renewed.
 
 ---
 
 # 2. Resource Categories
 
-LCF recognizes multiple types of resources.
+LCF describes multiple categories of resources as a conceptual way of understanding interconnected systems.
 
 These categories are used as a way to understand interconnected systems.
 
@@ -111,7 +111,7 @@ Recovery
 Renewal
 ````
 
-This contrasts with systems that create unnecessary loss:
+For comparison, LCF contrasts this with simplified linear resource flows that may result in unnecessary loss: 
 
 ```text
 Extraction
@@ -125,7 +125,7 @@ Waste
 
 # 4. Circular Systems
 
-Resources can often benefit from being considered as part of cycles.
+LCF explores how considering resources as part of broader cycles may improve long-term resilience.
 
 Examples:
 
@@ -158,13 +158,13 @@ Considerations may include:
 * Ethical considerations
 * Social impact
 
-Technology should support responsible decision-making.
+Within LCF, technology is intended to support responsible human decision-making rather than replace human judgment.
 
 ---
 
 # 6. Resource Development Indicators
 
-Possible indicators include:
+LCF explores several possible indicators for understanding resource systems.
 
 ## Efficiency
 
@@ -229,24 +229,23 @@ The goal is not only meeting present needs, but considering future impacts.
 
 # 8. Final Principle
 
-Resources are not only objects for consumption.
+LCF views resources as components of interconnected systems that support life, development, and civilization.
 
-They are part of interconnected systems that support life, development, and civilization.
-
-Understanding these relationships can help societies make more informed decisions.
+Understanding these relationships may help individuals, communities, organizations, and societies make more informed and sustainable decisions over time.
 
 ---
 
 ## Disclaimer
 
-The resource concepts in LCF are an exploratory framework for discussion and system improvement.
+The concepts presented in RESOURCES.md are an exploratory framework for discussion, research, and system improvement.
 
-They are not intended as a universal resource policy or replacement for existing environmental, economic, or social systems.
+They are not intended as a universal resource policy or as a replacement for existing environmental, economic, scientific, or social systems.
 
 Real-world application should consider:
 
-* Local conditions
-* Scientific evidence
-* Community needs
-* Legal frameworks
-* Environmental realities
+- Scientific evidence
+- Local conditions
+- Community needs
+- Environmental realities
+- Applicable laws
+- Ethical considerations
