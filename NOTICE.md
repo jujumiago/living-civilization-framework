@@ -13,7 +13,7 @@ The Living Civilization Framework (LCF) is an open conceptual framework for expl
 - Technology
 - Long-term development
 
-LCF is released as a collaborative and evolving work.
+LCF is released as an open, evolving conceptual framework for discussion, research, education, and exploration.
 
 ---
 
@@ -47,7 +47,9 @@ AI systems used include:
 - Claude (Anthropic)
 - Gemini (Google)
 
-AI tools do not represent the author or hold responsibility for the final framework.
+AI tools were used as collaborative assistants rather than as authors of the framework.
+
+The author remains responsible for all concepts, interpretations, editorial decisions, revisions, and publication.
 
 Final interpretation, decisions, structure, and publication responsibility remain with the author.
 
@@ -78,9 +80,9 @@ See:
 
 ## Third-Party Materials
 
-Unless specifically stated, LCF documentation does not include third-party copyrighted materials.
+Unless otherwise indicated, LCF documentation does not intentionally reproduce third-party copyrighted material.
 
-References to existing ideas, theories, or historical concepts are provided for discussion, comparison, and educational purposes.
+References to existing ideas, theories, historical developments, academic fields, and public knowledge are provided for discussion, comparison, attribution, and educational purposes.
 
 ---
 
@@ -98,15 +100,13 @@ See:
 
 ## Disclaimer
 
-LCF is a conceptual exploration framework.
+The Living Civilization Framework (LCF) is an open conceptual framework intended for discussion, research, education, and exploration.
 
 It is not:
 
 - A political organization
-- A government system
+- A government proposal
 - Professional advice
 - A replacement for existing institutions
 
-Real-world applications should consider applicable laws, evidence, local conditions, and ethical considerations.
-
-Then v0.2 legal/documentation layer is basically complete. 👍
+Any real-world application should consider applicable laws, local conditions, evidence-based practices, ethical considerations, and internationally recognized human rights principles.
