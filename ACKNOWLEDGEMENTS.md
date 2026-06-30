@@ -1,21 +1,56 @@
+# ACKNOWLEDGEMENTS
+
 # Acknowledgements
 
-This project was developed through collaborative exploration between human input and AI-assisted reasoning systems.
+The Living Civilization Framework (LCF) was developed through human-led research, reasoning, design, and integration with assistance from AI tools.
 
-## AI Contributions
+---
 
-Parts of the conceptual structuring, drafting, and refinement of the Living Civilization Framework were assisted by:
+## AI Assistance
+
+AI tools were used to support activities such as:
+
+- Brainstorming
+- Exploration
+- Drafting
+- Structuring
+- Language refinement
+- Cross-document consistency
+
+AI systems used during development include:
 
 - ChatGPT (OpenAI)
 - Claude (Anthropic)
-- Gemini
+- Gemini (Google)
 
-These systems were used as reasoning and drafting assistants, not as sole authors.
+These tools were used as collaborative assistants rather than as authors of the framework.
 
-## Human Role
+---
 
-The final direction, selection, refinement, and integration of ideas were determined by the project author.
+## Human Responsibility
+
+The framework creator remains responsible for:
+
+- The overall direction of the framework
+- Concept development and integration
+- Editorial decisions
+- Revisions
+- Final publication
+
+All interpretations, conclusions, and published content remain under human responsibility.
+
+---
+
+## Community Appreciation
+
+The Living Civilization Framework is intended to evolve through constructive discussion, research, practical experience, and community contributions.
+
+The author appreciates everyone who helps improve the framework through thoughtful feedback, collaboration, and evidence-based discussion.
+
+---
 
 ## Note
 
-This framework is treated as an evolving knowledge structure rather than a static publication.
+LCF is an evolving conceptual framework.
+
+It is intended to improve over time as new knowledge, research, practical experience, and constructive contributions become available.
