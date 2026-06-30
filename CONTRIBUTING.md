@@ -19,6 +19,8 @@ The goal is not to defend a fixed answer.
 
 The goal is to improve understanding through discussion, evidence, experimentation, and refinement.
 
+LCF is an evolving conceptual framework. Contributions are intended to improve the framework through evidence, constructive discussion, and practical experience rather than establish authoritative or universally accepted conclusions.
+
 ---
 
 # Ways to Contribute
@@ -66,7 +68,7 @@ Contributions may include:
 
 ## Technical Contributions
 
-If the repository includes technical components, contributions may include:
+If the repository includes technical components now or in future versions, contributions may include:
 
 - Code improvements
 - Tools
@@ -89,7 +91,7 @@ Contributors should:
 
 ## Evidence and Reasoning
 
-Strong contributions should include:
+Where appropriate, strong contributions should include:
 
 - Clear reasoning
 - Supporting information where possible
@@ -123,6 +125,8 @@ Please consider:
 
 Maintainers may request changes or discussion before accepting contributions.
 
+Acceptance of a contribution does not imply that the maintainers consider it objectively correct or complete. Accepted contributions represent the framework's current state of development and remain open to future revision.
+
 ---
 
 # Content Guidelines
@@ -141,6 +145,8 @@ LCF welcomes exploration and discussion.
 # Attribution and Licensing
 
 By contributing to this repository, you agree that your contributions may be distributed under the project's license.
+
+Unless otherwise noted, contributions are accepted under the project's license.
 
 Current project license:
 
@@ -171,6 +177,8 @@ However, contributors remain responsible for:
 
 AI-generated material should not be submitted without human review.
 
+Contributors are responsible for ensuring that AI-assisted content does not knowingly infringe intellectual property rights or reproduce copyrighted material without appropriate permission or attribution.
+
 ---
 
 # Contributor Responsibility
@@ -180,6 +188,7 @@ Contributors are responsible for ensuring their submissions:
 - Are original or properly attributed
 - Do not violate third-party rights
 - Follow applicable laws and licenses
+- Respect the privacy, rights, and dignity of other individuals
 
 ---
 
@@ -190,3 +199,15 @@ LCF is a living framework.
 The strength of the project comes from continuous learning, careful discussion, and contributions from people with different experiences and perspectives.
 
 Thank you for helping improve it.
+
+---
+
+## Disclaimer
+
+This document describes the contribution process for the Living Civilization Framework (LCF).
+
+Nothing in this document transfers ownership of third-party intellectual property, waives applicable legal rights, or authorizes contributions that violate copyright, trademark, privacy, or other applicable laws.
+
+All contributors remain responsible for the content they submit.
+
+The maintainers reserve the right to review, modify, reject, or remove contributions in accordance with the project's goals, license, and community standards.
