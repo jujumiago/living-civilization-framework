@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+title: "Living Civilization Framework (LCF)"
+message: >
+  If you use or reference the Living Civilization Framework (LCF) in research,
+  publications, educational materials, or other works, please cite it using the
+  metadata provided in this file.
+
+type: dataset
+
+authors:
+  - family-names: "Suheramn"
+    given-names: "Junaidi"
+
+repository-code: "https://github.com/YOUR_USERNAME/living-civilization-framework"
+
+abstract: >
+  The Living Civilization Framework (LCF) is an open conceptual framework that
+  explores human development, civilization systems, education, governance,
+  sustainability, technology, and long-term societal development through a
+  systems-oriented perspective.
+
+keywords:
+  - civilization
+  - systems thinking
+  - governance
+  - education
+  - sustainability
+  - human development
+  - technology
+  - knowledge systems
+  - framework
+
+license: "CC-BY-SA-4.0"
+
+version: "0.4"
+
+date-released: "2026-06-30"
+
+url: "https://github.com/YOUR_USERNAME/living-civilization-framework"
+
+language: "en"
+
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "YOUR FAMILY NAME"
+      given-names: "YOUR GIVEN NAME"
+  title: "Living Civilization Framework (LCF)"
+  version: "0.4"
+  year: 2026
+  publisher: "GitHub"
+  url: "https://github.com/jujumiago/living-civilization-framework"
