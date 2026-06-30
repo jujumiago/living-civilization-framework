@@ -125,7 +125,7 @@ LCF emphasizes that capability should develop alongside responsibility, includin
 - Long-term thinking
 - Respect for honest contribution
 
-Education therefore supports not only the acquisition of knowledge but also the  of responsible individuals capable of contributing constructively to society.
+Education therefore supports not only the acquisition of knowledge but also the development of responsible individuals capable of contributing constructively to society.
 
 ---
 
@@ -170,9 +170,9 @@ Artificial intelligence and digital systems can support human capability through
 
 However, technology remains a tool.
 
-Human judgment, responsibility, and ethical consideration remain important.
+Human judgment, responsibility, ethical consideration, and creativity remain essential.
 
-LCF views digital technologies as tools intended to support, rather than replace, human judgment, responsibility, and creativity.
+LCF views digital technologies as tools intended to support these human capabilities rather than replace them.
 
 The goal is to explore how technology can help humans better understand, create, and improve systems.
 
@@ -244,7 +244,7 @@ It is balanced, responsible, and sustainable development that benefits both pres
 
 # 10. Final Principle
 
-LCF proposes that civilizations may become more resilient when continuous learning develops responsible capability that is transformed into meaningful contribution.
+LCF proposes that civilizations may become more resilient when continuous learning develops responsible capability that is expressed through meaningful contribution.
 
 ```text
 Survival
