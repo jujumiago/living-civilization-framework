@@ -2,9 +2,9 @@
 
 # Living Civilization Development Roadmap
 
-The Living Civilization Development Roadmap describes a conceptual pathway through which individuals, communities, organizations, and societies may develop over time.
+The Living Civilization Development Roadmap describes one possible conceptual pathway through which individuals, communities, organizations, and societies may develop over time.
 
-The phases are intended as guidance rather than rigid requirements.
+The phases are intended as guidance for discussion and exploration rather than rigid requirements or universal stages of development.
 
 People and societies may revisit earlier phases as circumstances, knowledge, responsibilities, and opportunities change.
 
@@ -184,7 +184,7 @@ Future generations inherit stronger knowledge, systems, capabilities, and opport
 
 # Recognition Philosophy
 
-Recognition is not a mandatory stage of development.
+Recognition is not a mandatory stage of development and may take different forms across cultures, organizations, and communities.
 
 Within the Living Civilization Framework, recognition acknowledges demonstrated effort, capability, responsibility, innovation, and meaningful contribution.
 
@@ -200,7 +200,7 @@ Recognition should never diminish the dignity of people making different honest 
 
 Achievement is viewed as an opportunity to help others learn and grow rather than as a measure of personal superiority.
 
-Healthy forms of recognition include:
+Examples of constructive recognition may include:
 
 - Constructive feedback
 - Professional certification
@@ -233,13 +233,13 @@ Share
 Repeat
 ```
 
-Civilization develops through continuous learning, responsible action, and the willingness to improve over time.
+Within LCF, civilization is viewed as benefiting from continuous learning, responsible action, and the willingness to improve over time.
 
 ---
 
 # Final Principle
 
-The roadmap describes one possible pathway through which civilization may develop:
+The roadmap summarizes one possible pathway through which civilization may develop:
 
 ```text
 Survival
@@ -259,14 +259,16 @@ Exploration
 Legacy
 ```
 
-These phases are intended to support discussion, research, and continuous improvement rather than prescribe a single universal model.
+These phases are intended to support discussion, research, education, and continuous improvement rather than prescribe a single universal model of human or societal development.
 
 ---
 
 ## Disclaimer
 
-The Living Civilization Development Roadmap is an exploratory conceptual framework.
+The Living Civilization Development Roadmap is an exploratory conceptual framework intended for discussion, research, and educational purposes.
 
-It is not intended as a mandatory social, educational, or governmental model.
+It is not intended as a mandatory social, educational, organizational, or governmental model, nor as a prediction that all individuals or societies will follow the same developmental pathway.
 
-Real-world implementation should consider evidence, ethics, local conditions, cultural diversity, applicable laws, and internationally recognized human rights principles.
+Real-world application should consider applicable laws, evidence-based practice, ethics, local conditions, cultural diversity, and internationally recognized human rights principles.
+
+Users remain responsible for how these concepts are interpreted and applied.

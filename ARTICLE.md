@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-Human civilization has continuously evolved through transformation.
+Human civilization has continuously evolved through social, cultural, scientific, and technological transformation.
 
 From early survival communities, agriculture, industrial society, and digital civilization, each era expanded what humanity could achieve.
 
@@ -170,9 +170,9 @@ Artificial intelligence and digital systems can support human capability through
 
 However, technology remains a tool.
 
-Human judgment, responsibility, and ethical consideration remain important.
+Human judgment, responsibility, ethical consideration, and creativity remain essential.
 
-The goal is not to replace humanity.
+LCF views digital technologies as tools intended to support these human capabilities rather than replace them.
 
 The goal is to explore how technology can help humans better understand, create, and improve systems.
 
@@ -180,7 +180,7 @@ The goal is to explore how technology can help humans better understand, create,
 
 # 7. Resource Relationship
 
-Civilization exists within Earth's ecosystem.
+Human civilization currently exists within Earth's ecosystems and depends upon relationships between natural, social, and technological systems.
 
 LCF views resources as more than materials to consume.
 
@@ -244,7 +244,7 @@ It is balanced, responsible, and sustainable development that benefits both pres
 
 # 10. Final Principle
 
-A civilization becomes stronger when learning continuously develops responsible capability that is transformed into meaningful contribution.
+LCF proposes that civilizations may become more resilient when continuous learning develops responsible capability that is expressed through meaningful contribution.
 
 ```text
 Survival
@@ -279,24 +279,26 @@ AI assistance was used for:
 * Drafting
 * Refinement
 
-Human responsibility remains with the author for final decisions, interpretation, and publication.
+The author remains responsible for all final decisions, interpretation, revisions, and publication of the framework.
+
+---
+
+## Disclaimer
+
+The Living Civilization Framework (LCF) is an open conceptual framework intended for discussion, research, education, and exploration.
+
+It is not a scientific theory, legal standard, government policy, educational standard, or professional advice.
+
+The concepts presented are intended to encourage critical thinking, continuous learning, and constructive dialogue.
+
+Any real-world application should consider applicable laws, local conditions, cultural contexts, evidence-based practices, and human rights principles.
 
 ---
 
 ## License
 
-This document is part of the Living Civilization Framework.
+This document is part of the Living Civilization Framework (LCF).
 
 Licensed under CC BY-SA 4.0.
 
-```
-
-This version is safer because it clearly says:
-
-- **LCF proposes/explores/views** (not declaring universal truth)
-- AI is a tool, not an author
-- It is not a political replacement system
-- It is a framework, not a command structure
-
-I would consider this the proper public `ARTICLE.md` version.
-```
+See [LICENSE](./LICENSE) for the complete license text.

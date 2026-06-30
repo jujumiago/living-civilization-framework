@@ -1,72 +1,69 @@
+# LICENSE
+
 # Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-Copyright (c) 2026 Living Civilization Framework Contributors
+Copyright (c) 2026 The Living Civilization Framework Contributors
 
 ---
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+## License
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 
 You are free to:
 
-## Share
+### Share
 
 Copy and redistribute the material in any medium or format.
 
-## Adapt
+### Adapt
 
 Remix, transform, and build upon the material.
 
-You may use this work for any purpose, including commercially.
+You may use this work for any purpose, including commercial use.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 ---
 
-## Under the following terms:
+## License Terms
 
 ### Attribution
 
-You must give appropriate credit, provide a link to this license, and indicate if changes were made.
+You must:
 
-You may do so in any reasonable manner, but not in a way that suggests the original author endorses you or your use.
+- Give appropriate credit.
+- Provide a link to the license.
+- Indicate whether changes were made.
+
+You may do so in any reasonable manner, but not in any way that suggests the original author or contributors endorse you or your use.
+
+---
 
 ### ShareAlike
 
-If you remix, transform, or build upon this material, you must distribute your contributions under the same license.
+If you remix, transform, or build upon this material, you must distribute your contributions under the same CC BY-SA 4.0 license.
 
-This keeps future improvements open and accessible.
+This helps ensure that future improvements remain open and accessible.
 
 ---
 
 ## No Additional Restrictions
 
-You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+You may not apply legal terms or technological measures that legally restrict others from exercising the rights granted by this license.
 
 ---
 
-## Full License Text
+## Full License
+
+For the complete legal text of the Creative Commons Attribution-ShareAlike 4.0 International License, see:
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
-## Project Intent
+## Project Scope
 
-The Living Civilization Framework (LCF) is intended to be a living and evolving framework.
+This license applies to the Living Civilization Framework (LCF) documentation and other materials contained within this repository unless otherwise stated.
 
-Contributions, adaptations, translations, research, and implementations are encouraged with proper attribution and license compatibility.
-
-This license applies to the framework documentation and related materials included in this repository.
-
----
-
-## Disclaimer
-
-LCF is a conceptual framework for discussion, research, and exploration.
-
-It does not represent:
-
-- A political organization
-- A government system
-- Professional advice
-- A replacement for existing institutions
-
-Applications of the framework should consider local laws, evidence, context, and ethical considerations.
+Contributions, adaptations, translations, research, educational use, and derivative works are welcomed in accordance with the terms of the CC BY-SA 4.0 license.

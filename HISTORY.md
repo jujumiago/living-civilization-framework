@@ -10,7 +10,7 @@
 
 This document describes the background and development context of the Living Civilization Framework (LCF).
 
-It explains the ideas, observations, and questions that influenced the creation of the framework.
+It explains the ideas, observations, questions, and development process that influenced the creation of the framework.
 
 LCF is a conceptual framework created to explore relationships between:
 
@@ -27,7 +27,7 @@ It does not claim to represent the only interpretation of civilization developme
 
 # 2. Human Civilization Development
 
-Throughout history, Human societies have developed through many different historical processes and cultural contexts.
+Throughout history, human societies have developed through diverse historical processes and cultural contexts.
 
 Examples include:
 
@@ -73,7 +73,7 @@ Education, technology, governance, economics, environmental studies, and human d
 
 LCF explores whether connecting these perspectives can improve humanity's ability to understand complex challenges and develop more integrated solutions.
 
-Rather than replacing existing disciplines, LCF seeks to provide a common framework that highlights relationships between them.
+This motivation reflects the author's perspective and serves as the conceptual foundation for LCF rather than an established academic consensus.
 
 ---
 
@@ -103,7 +103,7 @@ AI was used to support:
 - Language improvement
 - Cross-document consistency
 
-All conceptual decisions, integration, and publication remain under human responsibility.
+All conceptual decisions, interpretation, integration, review, and publication remain under human responsibility.
 
 LCF should therefore be understood as a human-led framework developed with AI assistance rather than an AI-generated theory.
 
@@ -122,7 +122,7 @@ LCF shares conceptual connections with many existing fields, including:
 
 These connections represent areas of alignment and exploration.
 
-LCF does not claim to replace or fully represent any existing field or theory.
+References to related disciplines are intended to illustrate conceptual relationships rather than imply endorsement, affiliation, or complete theoretical equivalence.
 
 See:
 
@@ -175,6 +175,8 @@ Expanded structure:
 
 ## Version 0.3
 
+This section summarizes major milestones rather than every individual revision made during development.
+
 Framework refinement:
 
 - Updated development pathway
@@ -188,7 +190,7 @@ Framework refinement:
 
 ## Future Development
 
-Possible future areas:
+Possible future areas of exploration include:
 
 - AI evaluation concepts
 - Technology frameworks
@@ -198,7 +200,7 @@ Possible future areas:
 
 ---
 
-# 8. Final Perspective
+# 10. Final Perspective
 
 The history of civilization is a continuous process of learning and adaptation.
 
@@ -227,6 +229,8 @@ Future versions may refine existing concepts, introduce new frameworks, or revis
 
 The history of LCF is therefore intended to remain an open and continuously updated record rather than a completed narrative.
 
+Future revisions may clarify, expand, modify, or remove earlier concepts as the framework develops through continued research, discussion, and practical experience.
+
 ---
 
 ## Disclaimer
@@ -238,3 +242,5 @@ It summarizes observations, influences, and the evolution of the framework itsel
 It is not intended to represent a complete history of civilization, a comprehensive review of historical scholarship, or a claim that human societies follow a single predetermined path.
 
 Readers are encouraged to consult historical and academic sources for broader perspectives.
+
+This document should be understood as documentation of the development of the Living Civilization Framework itself rather than as an authoritative historical, academic, or scientific publication.

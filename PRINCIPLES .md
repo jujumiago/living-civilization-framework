@@ -2,7 +2,7 @@
 
 ## Living Civilization Framework (LCF)
 
-The Living Civilization Framework is built upon a set of foundational principles intended to guide individuals, communities, organizations, and nations toward sustainable human development.
+The Living Civilization Framework (LCF) is built upon a set of foundational principles intended to support discussion, learning, and the development of individuals, communities, organizations, and societies.
 
 ---
 
@@ -20,7 +20,7 @@ Priority foundations:
 * Health
 * Safety
 
-The first responsibility of a civilization is ensuring that people have a pathway to survival.
+Within LCF, one of the primary responsibilities of a civilization is to help ensure people have pathways toward meeting their basic survival needs.
 
 ---
 
@@ -37,7 +37,7 @@ Capability includes:
 * Practical skills
 * Responsibility
 
-Knowledge alone is not enough. Knowledge must become capability.
+Within LCF, knowledge is viewed as becoming more meaningful when it develops into practical capability.
 
 ---
 
@@ -49,25 +49,25 @@ People may contribute through different roles, responsibilities, and areas of ex
 
 Education and culture should cultivate respect for those who honestly support society, whether through caregiving, education, agriculture, engineering, healthcare, research, public service, skilled trades, the arts, or other meaningful contributions.
 
-Respect for honest contribution strengthens cooperation, social trust, and appreciation for the interconnected nature of civilization.
+LCF proposes that respect for honest contribution can strengthen cooperation, social trust, and appreciation for the interconnected nature of civilization.
 
 ---
 
 ## Principle 4: Dignity of Contribution
 
-Every honest contribution that supports society has value.
+Within LCF, every honest contribution that supports society is regarded as having value.
 
 Civilization depends upon interconnected roles working together.
 
 Different forms of work may require different skills, responsibilities, or expertise, but no honest work that contributes positively to society is inherently inferior.
 
-The value of work comes from contribution, responsibility, and positive impact.
+LCF emphasizes contribution, responsibility, and positive impact as important ways of understanding the value of work.
 
 ---
 
 ## Principle 5: Growth Through Action
 
-Humans learn through experience.
+People often learn effectively through experience.
 
 Learning should combine:
 
@@ -76,7 +76,7 @@ Learning should combine:
 * Responsibility
 * Reflection
 
-Understanding becomes stronger when connected to real-world action.
+Within LCF, understanding is viewed as becoming stronger when connected to real-world action.
 
 ---
 
@@ -98,7 +98,7 @@ A delayed dream is not a failed dream.
 
 ## Principle 7: Continuous Evolution
 
-No system is perfect.
+LCF assumes that no complex system is likely to be perfect.
 
 Every system must continuously:
 
@@ -107,7 +107,7 @@ Every system must continuously:
 * Improve
 * Adapt
 
-Civilization itself should function as a learning system.
+LCF encourages viewing civilization as a continuously learning system.
 
 ---
 
@@ -115,7 +115,7 @@ Civilization itself should function as a learning system.
 
 Each generation inherits the work of previous generations.
 
-The goal is to leave stronger foundations than those received.
+LCF encourages each generation to leave stronger foundations for those that follow.
 
 Knowledge, capability, and wisdom should continue evolving over time.
 
@@ -127,7 +127,7 @@ Freedom and responsibility grow together.
 
 Individuals should have pathways to pursue their goals while contributing to the well-being of society.
 
-Neither responsibility nor freedom should exist in isolation.
+LCF explores the idea that responsibility and freedom are most effective when they develop together.
 
 ---
 
@@ -140,7 +140,7 @@ Civilizations must continue exploring:
 * Technology
 * Human understanding
 
-Exploration enables adaptation and long-term resilience.
+LCF proposes that exploration can support adaptation and long-term resilience.
 
 ---
 
@@ -149,19 +149,46 @@ Exploration enables adaptation and long-term resilience.
 Civilization is not a finished structure.
 
 It is a living system that continuously develops through:
-
-Survival → Capability → Contribution → Growth → Exploration → Legacy
+```
+Survival
+      ↓
+Learning
+      ↓
+Capability
+      ↓
+Responsibility
+      ↓
+Contribution
+      ↓
+Demonstration
+      ↓
+Exploration
+      ↓
+Legacy
+```
 
 ---
 
 ## Principle 12: Demonstration and Recognition
 
-Civilization grows when people and communities demonstrate capability through peaceful achievement.
+Within LCF, civilization is viewed as benefiting when people and communities demonstrate capability through peaceful achievement and constructive action.
 
-Recognition should acknowledge demonstrated effort, capability, innovation, and contribution.
+Recognition within LCF may acknowledge demonstrated effort, capability, innovation, and meaningful contribution.
 
 The purpose of recognition is not superiority over others.
 
 Its purpose is to encourage learning, inspire improvement, and share successful ideas for the benefit of society.
 
-Achievement carries responsibility to contribute knowledge and experience back to civilization.
+LCF encourages those who achieve success to share knowledge and experience so that others may continue learning and building upon previous progress.
+
+---
+
+## Disclaimer
+
+The principles presented in the Living Civilization Framework are exploratory concepts intended to support discussion, research, education, and continuous improvement.
+
+They are not intended as universal laws, legal requirements, or mandatory standards for individuals, organizations, societies, or governments.
+
+Real-world application should consider applicable laws, ethics, cultural context, evidence-based practice, and internationally recognized human rights principles.
+
+Users remain responsible for how these principles are interpreted and applied.

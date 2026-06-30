@@ -18,7 +18,7 @@ Humanity has developed many fields of thought that explore different parts of ci
 - Governance
 - Economics
 
-LCF attempts to connect these areas into a single evolving framework focused on:
+LCF explores how these areas may be connected within a single evolving framework focused on:
 
 - Human capability
 - Civilizational development
@@ -35,7 +35,9 @@ LCF is a synthesis framework.
 
 Throughout history, thinkers have explored how humans develop from basic needs toward higher capability.
 
-A common pattern can be observed:
+Many theories and historical observations describe broadly similar patterns of development, although they differ in important ways.
+
+One simplified conceptual pattern is:
 
 ```text
 Basic needs
@@ -49,7 +51,7 @@ Contribution
 Growth and creation
 ````
 
-LCF extends this idea from the individual level into the civilization level:
+LCF explores extending these concepts from individual development to broader patterns of community and civilization development:
 
 ```text
 Individual
@@ -67,7 +69,7 @@ A civilization is stronger when it creates pathways for people to continuously d
 
 # 3. Systems Thinking
 
-Civilization is not a collection of isolated parts.
+LCF views civilization as an interconnected system rather than a collection of isolated parts.
 
 It is a connected system.
 
@@ -154,7 +156,7 @@ They are part of relationships between:
 * Energy flows
 * Natural cycles
 
-A sustainable civilization must consider both:
+LCF proposes that sustainable civilization development should consider both:
 
 Present needs
 
@@ -168,7 +170,7 @@ Future generations.
 
 As civilizations grow larger, cooperation becomes necessary.
 
-Governance exists to coordinate:
+Within LCF, governance is viewed as supporting the coordination of:
 
 * Human activity
 * Resources
@@ -181,7 +183,7 @@ LCF treats governance as a mechanism for maintaining balance and enabling collec
 
 # 8. Contribution and Value
 
-Civilization advances through contribution.
+LCF views meaningful contribution as one of the primary drivers of civilization development.
 
 Contribution may appear as:
 
@@ -200,7 +202,7 @@ A healthy civilization recognizes diverse forms of meaningful contribution.
 
 LCF recognizes that capability becomes most valuable when it is exercised responsibly.
 
-As civilizations develop, individuals and communities naturally demonstrate different strengths through work, research, creativity, service, leadership, and exploration.
+As individuals and communities develop, they may demonstrate different strengths through work, research, creativity, service, leadership, and exploration.
 
 Recognition serves several constructive purposes:
 
@@ -253,7 +255,7 @@ The focus is the relationship between all systems.
 
 ---
 
-# 10. Continuous Evolution
+# 11. Continuous Evolution
 
 LCF is designed as a living framework.
 
@@ -281,7 +283,7 @@ Repeat
 
 ## Final Statement
 
-The Living Civilization Framework represents an attempt to organize humanity's accumulated understanding into a practical model for continuous civilization development.
+The Living Civilization Framework represents an attempt to integrate concepts from multiple fields into a practical framework for exploring continuous civilization development.
 
 It is not a final answer.
 
@@ -289,8 +291,10 @@ It is a structure for asking better questions and building better futures.
 
 ## Disclaimer
 
-FOUNDATIONS.md describes the conceptual background of the Living Civilization Framework (LCF).
+FOUNDATIONS.md provides background information and conceptual context for the Living Civilization Framework (LCF).
 
-References to academic fields, historical developments, and general patterns of thought are intended to provide context and should not be interpreted as claims of ownership, endorsement, or complete representation of those fields.
+References to academic fields, historical developments, and general patterns of thought are included solely to illustrate areas of conceptual influence or comparison.
 
-LCF remains an independent conceptual framework that integrates ideas from multiple disciplines while remaining open to revision through research, evidence, and practical experience.
+They should not be interpreted as claims of ownership, endorsement, official affiliation, or complete representation of the referenced disciplines or ideas.
+
+LCF remains an independently developed conceptual framework that synthesizes concepts from multiple disciplines while remaining open to revision through research, evidence, discussion, and practical experience.
