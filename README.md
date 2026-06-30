@@ -1,6 +1,8 @@
 # 🌱 Living Civilization Framework (LCF)
 
-## A Living Framework for Human Development and Civilizational Growth
+**Current Version:** v0.4
+
+## A Living Framework for Human Development, Responsible Capability, and Civilizational Growth
 
 The Living Civilization Framework (LCF) is an open framework designed to help individuals, communities, organizations, and societies explore sustainable pathways from survival to long-term human flourishing.
 
@@ -45,6 +47,25 @@ The Living Civilization Framework (LCF) is an open framework designed to help in
 - 🌱 [Resources](./RESOURCES.md)  
   Resource relationships, sustainability, and planetary balance.
 
+---
+
+### 🤖 AI, Ethics & Society
+
+- 🤖 [AI Evaluation](./AI_EVALUATION.md)  
+  Human-centered principles for evaluating AI systems.
+
+- ⚖️ [Ethics](./ETHICS.md)  
+  Ethical principles supporting responsible human and technological development.
+
+- 💻 [Technology](./TECHNOLOGY.md)  
+  Technology as a capability multiplier supporting civilization.
+
+- 💹 [Economics](./ECONOMICS.md)  
+  Economic systems, value creation, and sustainable prosperity.
+
+- 🌍 [Global Cooperation](./GLOBAL_COOPERATION.md)  
+  Principles for peaceful cooperation across communities, organizations, and nations.
+  
 ---
 
 ### 🤝 Community
@@ -162,24 +183,31 @@ The framework itself should evolve as humanity gains new knowledge and understan
 
 ### Completed
 
-* [x] Vision
-* [x] Principles
-* [x] Roadmap
-* [x] Governance
-* [x] Contribution Guidelines
-* [x] Measurement Framework
-* [x] Educational Framework
-* [x] Resource Framework
-* [x] Foundations Documentation
-* [x] Systems Alignment Map
+- [x] Vision
+- [x] Principles
+- [x] Roadmap
+- [x] Governance
+- [x] Measurement Framework
+- [x] Education Framework
+- [x] Resource Framework
+- [x] Technology Framework
+- [x] Economics Framework
+- [x] Ethics Framework
+- [x] AI Evaluation Framework
+- [x] Global Cooperation Framework
+- [x] Foundations Documentation
+- [x] Systems Alignment Map
+- [x] Contribution Guidelines
+- [x] Development History
+- [x] Repository Governance Documents
 
 ### In Progress
 
-* [ ] AI Evaluation Framework
-* [ ] Global Cooperation Model
-* [ ] Economic Framework
-* [ ] Technology Framework
-* [ ] Ethics Framework
+- [ ] Case Studies
+- [ ] Practical Examples
+- [ ] Research References
+- [ ] Framework Maturity Model
+- [ ] Additional Civilization Domains
 
 ---
 
@@ -192,6 +220,21 @@ The goal is not to defend a fixed doctrine.
 The goal is to continuously improve the framework through evidence, discussion, and practical experience.
 
 ➡️ See: [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
+
+## 📂 Repository Standards
+
+This repository also includes supporting documentation for contributors and users:
+
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+- [SECURITY.md](./SECURITY.md)
+- [CONTRIBUTING.md](./CONTRIBUTING.md)
+- [NOTICE.md](./NOTICE.md)
+- [LICENSE](./LICENSE)
+- [CITATION.cff](./CITATION.cff)
+
+These documents describe community expectations, responsible disclosure, licensing, citation guidance, and project governance.
 
 ---
 
@@ -215,6 +258,12 @@ AI tools were used to assist with drafting, organization, exploration, and refin
 All final decisions, framework structure, interpretation, and publication responsibility belong to the author.
 
 This is a human-led, AI-assisted open framework.
+
+---
+
+## 📖 Citation
+
+If you use the Living Civilization Framework in research, publications, or educational work, please cite the project using the included `CITATION.cff` file or another appropriate academic citation format.
 
 ---
 
@@ -252,6 +301,14 @@ See [LICENSE](./LICENSE)
 See also:
 
 * [NOTICE](./NOTICE.md)
+
+---
+
+## 🌍 An Evolving Framework
+
+LCF is intended to remain open to improvement through research, evidence, constructive discussion, practical experience, and contributions from the wider community.
+
+Rather than presenting final answers, the framework seeks to encourage continuous learning and responsible development across individuals, communities, organizations, and societies.
 
 ---
 
