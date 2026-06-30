@@ -70,13 +70,19 @@ These connections represent areas of alignment and exploration.
 
 LCF does not claim ownership of, replace, or fully represent any existing theory, researcher, institution, or framework.
 
-References to organizations, companies, institutions, products, standards, researchers, or public figures are provided solely for discussion, comparison, attribution, or illustration and do not imply endorsement, partnership, sponsorship, or affiliation unless explicitly stated.
-
 See:
 
 [FOUNDATIONS.md](./FOUNDATIONS.md)
 
 [SYSTEMS.md](./SYSTEMS.md)
+
+---
+
+## Non-Affiliation Statement
+
+References to organizations, companies, institutions, products, standards, researchers, public figures, or other third-party works are provided solely for discussion, comparison, attribution, illustration, or educational purposes.
+
+Unless explicitly stated, such references do not imply endorsement, partnership, sponsorship, affiliation, or approval by the referenced parties.
 
 ---
 
